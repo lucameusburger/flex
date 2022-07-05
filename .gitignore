@@ -9,7 +9,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-assets/chubs/
+assets/
+.vscode/
 
 # macOS
 .DS_Store
